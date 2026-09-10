@@ -2,6 +2,11 @@
 
 ## Overview
 
+A REST API for managing analyst profiles, firm associations, and document uploads, built with Java, Spring Boot, and PostgreSQL.
+
+This project adapts a teacher-registry application developed during Coding Factory classes into an analyst registry. It provided practice with REST APIs, persistence, JWT authentication, role/capability-based authorization, and file validation.
+
+
 `analyst-registry` is a Java web application built with Spring Boot.  
 It manages analysts, firms, users, roles, and capabilities through:
 
